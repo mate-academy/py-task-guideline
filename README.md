@@ -25,7 +25,7 @@
 ## Implement the solution
 1. Implement the solution within a function in `app/main.py`
     ![Where to write a solution](./assets/where-to-write-a-solution.png)
-1. Run `pytest` to check if your solution is correct
+1. Run `pytest` to check if your solution is correct (or using PyCharm `pytest` support)
     - If at least one test fails fix the solution and check again.
 1. Run `flake8 app` to see if your code follows the [flake8 rules](https://www.flake8rules.com/)
     - If you see some errors fix them and check again
