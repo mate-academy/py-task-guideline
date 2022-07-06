@@ -38,7 +38,11 @@
     git push origin develop
     ```
     - If you created another branch (not `develop`) use its name instead
-    
+
+Note: if changes were added to GitHub task when you already forked it and 
+downloaded to your local machine, follow this 
+[guideline](./pull-changes-from-mate-repo-guideline/pull-changes-from-mate-repo-guideline.md) to pull changes.
+
 ## Create a Pull Request (PR)
 1. Open your repo on GitHub and create a `Pull Request` (PR)
     ![New PR button](./assets/new-pull-request-button.png)
