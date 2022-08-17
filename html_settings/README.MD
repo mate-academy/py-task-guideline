@@ -6,7 +6,8 @@
 
 1. Open **PyCharm**.
 2. Open project.
-3. **Go to `Settings -> Preferences -> Editor -> HTML`**.
+3. 1) **Go to `Preferences -> Editor -> HTML`** for macOS.
+   2) **Go to `Settings -> Editor -> HTML`** for Windows and Linux.
 4. Change these fields: 
   - **tab size = 2**;
   - **indent = 2**;
