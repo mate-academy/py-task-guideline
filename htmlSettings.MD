@@ -1,6 +1,6 @@
 # Guidline how to change the default value of tablespaces for .html
 
-**Requirement**: use 2 tablespaces instead of 4 in .html files. 
+**Requirement**: use 2 tablespaces instead of 4 in `.html` files. 
 
 4 tablespaces are the default value in PyCharm. Here is a short guide on how to change default settings: 
 
